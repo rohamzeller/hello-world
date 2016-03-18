@@ -1,6 +1,6 @@
 package Stargate;
 
 public class Box extends MapObject {
-	módosítás 2
+	modósítás 3
 	modosítás 1
 }
